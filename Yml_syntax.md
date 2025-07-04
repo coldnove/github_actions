@@ -16,7 +16,7 @@ Events that trigger workflows https://docs.github.com/en/actions/reference/event
 on :  
   push:
    brances: [ master] 
-  pullrequest:
+  pull_request:
    brances: [ master]
 ```
 
