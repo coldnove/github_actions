@@ -1,2 +1,4 @@
-# github_actions
-this repo is to learn github actions  
+# Github_Actions
+This repo is to learn github actions  
+
+
